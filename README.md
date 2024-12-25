@@ -1,10 +1,11 @@
 
-steps:
-#cd NYD-hackathon-2025
+#steps:#
 
-#npm i
+cd NYD-hackathon-2025
 
-#npm run dev
+npm i
+
+npm run dev
 
 
 
