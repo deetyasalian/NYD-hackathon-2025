@@ -1,5 +1,5 @@
 
-#steps:#
+steps:
 
 cd NYD-hackathon-2025
 
